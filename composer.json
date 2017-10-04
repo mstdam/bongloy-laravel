@@ -15,12 +15,6 @@
             "homepage": "https://cartalyst.com"
         }
     ],
-    "repositories": [
-        {
-            "url": "https://github.com/mstdam/bongloy.git",
-            "type": "git"
-        }
-    ],
     "require": {
         "php": ">=7.0",
         "illuminate/support": "5.5.*",
