@@ -1,5 +1,5 @@
 {
-    "name": "cartalyst/stripe-laravel",
+    "name": "mstdam/bongloy-laravel",
     "description": "Laravel 5.5 integration for the Cartalyst Stripe package.",
     "keywords": [
         "php",
